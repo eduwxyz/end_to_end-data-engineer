@@ -106,3 +106,5 @@ terraform apply -var="project=<project-id>"
 # Configuração do terraform concluida
 
 E é isso que precisamos de configuração do terraform neste projeto, se tudo ocorreu bem, no seu ambiente do bigquery você deve ver um dataset chamado `raw_data`.
+
+![raw_data](imagens/Screenshot.png)

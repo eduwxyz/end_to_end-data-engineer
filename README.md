@@ -19,3 +19,4 @@ Em construção
 # Etapas para construção
 
 1. [Poetry](instrucoes/poetry.md)
+2. [Terraform](instrucoes/terraform.md)
